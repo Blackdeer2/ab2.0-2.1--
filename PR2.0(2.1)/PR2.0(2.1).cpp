@@ -4,7 +4,7 @@
 // Лінійні програми. 
 // Варіант 1
 
-//2th commit branch02
+//3th commit branch02
 #include <iostream>
 #include <cmath>
 
