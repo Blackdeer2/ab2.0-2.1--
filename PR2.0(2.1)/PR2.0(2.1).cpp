@@ -4,7 +4,9 @@
 // Лінійні програми. 
 // Варіант 1
 
+
 //3th commit branch02
+
 #include <iostream>
 #include <cmath>
 
@@ -25,3 +27,4 @@ int main()
    cout << "z2 = " << z2 << endl;
    return 0;
 }
+//4th commit master
