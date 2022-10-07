@@ -4,6 +4,7 @@
 // Лінійні програми. 
 // Варіант 1
 
+//2th commit master
 #include <iostream>
 #include <cmath>
 
